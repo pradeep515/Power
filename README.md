@@ -1,0 +1,2 @@
+# Power
+Experiment with probablity
